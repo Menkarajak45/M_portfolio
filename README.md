@@ -122,16 +122,6 @@ const observer = new IntersectionObserver((entries) => {
 2. Open `index.html` in any modern browser — no server needed.
 
 ---
-
-## Future Updates
-
-- [ ] Add LinkedIn URL in the contact section
-- [ ] Replace "Coming Soon" with real project cards
-- [ ] Add a contact form with email functionality
-- [ ] Deploy to GitHub Pages or Netlify
-
----
-
 ## Author
 
 **Menka Kumari Rajak**
